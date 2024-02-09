@@ -1,0 +1,7 @@
+引脚定义如下：
+1	：JTAG_TCK		2	：GND
+3	：JTAG_TDO		4	：VCC
+5	：JTAG_TMS		6	：UART_TX
+7	：NC			8	：UART_RX
+9	：JTAG_TDI		10	：GND
+
