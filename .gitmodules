@@ -1,0 +1,9 @@
+[submodule "refence_design/ft2232-hl-smt3"]
+	path = refence_design/ft2232-hl-smt3
+	url = https://gitee.com/miraikkiri/ft2232-hl-smt3
+	branch = master
+
+[submodule "refence_design/TT_Digilent_JTAG_HS2"]
+	path = refence_design/TT_Digilent_JTAG_HS2
+	url = https://github.com/TerayTech/TT_Digilent_JTAG_HS2
+	branch = master
