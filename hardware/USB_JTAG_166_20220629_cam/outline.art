@@ -1,0 +1,33 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  1111592_xilinx_usb_cable_166_20220629_PCB.brd*
+G04 Film Name:    outline*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-2015-S108*
+G04 Origin Date:  Wed Jun 29 15:49:56 2022*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.00 0.00)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     6.00*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX55Y55*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.006*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X0Y90551D02*
+Y7874D01*
+G03X7874Y0I7874J0D01*
+G01X188976D01*
+G03X196850Y7874I0J7874D01*
+G01Y90551D01*
+G03X188976Y98425I-7874J0D01*
+G01X7874D01*
+G03X0Y90551I0J-7874D01*
+M02*
